@@ -1,2 +1,1 @@
-# ball_game
-Project for Software Engineering 1.
+Please don't edit this project unless you are on the team it was assigned to.
